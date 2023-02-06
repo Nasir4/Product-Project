@@ -239,6 +239,10 @@ Products
   .products-container {
     grid-template-columns: repeat(3, 1fr);
   }
+  /* .btn{
+    width:200px;
+    height:60px;
+  } */
 }
 
 .error {
